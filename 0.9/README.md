@@ -4,7 +4,7 @@ Version 0.9
 
 # Welcome
 
-Welcome to YAML-Var! The easiest way to add variables to your YAML files. Set by using := and use by enclosing in \{braces\}.  YAML-Var converts to YAML after making the substitutions.
+Welcome to YAML-Var! The easiest way to add variables to your YAML files through a preprocessing step. Set by using := and use by enclosing in \{braces\}.  YAML-Var converts to YAML after making the substitutions.
 
 This is the specification file.  You can try [YAML-Var online here.](https://taonexus.com/publicfiles/playground/yaml-var/yaml-var-converter)
 
@@ -121,7 +121,7 @@ users:
 
 # Suggested file extension
 
-It is suggested that the extension .yamlv be used for YAML-Var files.
+It is suggested that the extension .yamlv be used for YAML-Var files.  Note that YAML-Var is not itself compliant YAML before it is converted.
 
 
 # Formal specification:
