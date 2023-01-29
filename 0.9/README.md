@@ -1,5 +1,7 @@
 Version 0.9
 
+![ Puzzle pieces with := sign in front of them](https://raw.githubusercontent.com/robss2020/YAML-Var/main/0.9/banner.png "The key to the puzzle")
+
 # Welcome
 
 Welcome to YAML-Var! The easiest way to add variables to your YAML files. Set by using := and use by enclosing in \{braces\}.  YAML-Var converts to YAML after making the substitutions.
