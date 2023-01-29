@@ -1,0 +1,13 @@
+Motivating examples:
+
+base := /base/path
+username := jsmith
+fullpath := {base}/{username}
+config: {fullpath}    #config file line
+
+or
+
+base := /base/path
+username := jsmith
+fullpath := {base}/{username}
+config: {fullpath}/config1.yaml    #config file line
