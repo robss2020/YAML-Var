@@ -33,7 +33,7 @@ Here is a more typical example:
 `configuration1: {base}/config1.yaml`  
 `configuration2: {base}/config2.yaml`
 
-That's really about it, there is not much more to the format.
+Now you know everything you need to use YAML-Var with ease.
 
 The rest of this document is the formal specification.
 
